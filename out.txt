@@ -1,0 +1,2 @@
+server= WIN2008-SQL
+db= NUOVAOMEC
